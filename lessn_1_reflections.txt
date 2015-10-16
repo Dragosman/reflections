@@ -1,0 +1,5 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was annpoying. If I hadn't watched for the "+" and "-" signs, then this would've been crazy.
+
+also, it seems that cygwin is more annoying than windows shell.
